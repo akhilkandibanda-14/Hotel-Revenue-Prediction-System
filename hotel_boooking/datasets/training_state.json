@@ -1,0 +1,93 @@
+{
+  "failed": {},
+  "processed": {
+    "20260630092558388060_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260630092558388060_Hotel book.csv",
+      "processed_at": "2026-06-30T09:46:00.316834+00:00",
+      "result": {
+        "MAE": 75.23,
+        "R2": 0.9958,
+        "RMSE": 205.38,
+        "Training Rows": 109,
+        "status": "Training Completed"
+      }
+    },
+    "20260630092700772118_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260630092700772118_Hotel book.csv",
+      "processed_at": "2026-06-30T09:46:00.678118+00:00",
+      "result": {
+        "MAE": 12.61,
+        "R2": 0.9998,
+        "RMSE": 44.79,
+        "Training Rows": 218,
+        "status": "Training Completed"
+      }
+    },
+    "20260630094302614433_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260630094302614433_Hotel book.csv",
+      "processed_at": "2026-06-30T09:46:01.087906+00:00",
+      "result": {
+        "MAE": 1.21,
+        "R2": 1.0,
+        "RMSE": 5.84,
+        "Training Rows": 327,
+        "status": "Training Completed"
+      }
+    },
+    "20260630094706996588_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260630094706996588_Hotel book.csv",
+      "processed_at": "2026-06-30T09:47:12.094575+00:00",
+      "result": {
+        "MAE": 4.32,
+        "R2": 1.0,
+        "RMSE": 16.62,
+        "Training Rows": 436,
+        "status": "Training Completed"
+      }
+    },
+    "20260701091307853972_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260701091307853972_Hotel book.csv",
+      "processed_at": "2026-07-01T09:13:11.526416+00:00",
+      "result": {
+        "MAE": 1.33,
+        "R2": 1.0,
+        "RMSE": 5.77,
+        "Training Rows": 545,
+        "status": "Training Completed"
+      }
+    },
+    "20260702063411001395_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260702063411001395_Hotel book.csv",
+      "processed_at": "2026-07-02T06:34:20.974472+00:00",
+      "result": {
+        "MAE": 0.57,
+        "R2": 1.0,
+        "RMSE": 3.24,
+        "Training Rows": 654,
+        "status": "Training Completed"
+      }
+    },
+    "20260702064321701280_Hotel book.csv": {
+      "path": "C:\\Users\\Akhil\\Desktop\\hotel-revenue-service\\datasets\\uploaded\\20260702064321701280_Hotel book.csv",
+      "processed_at": "2026-07-02T06:43:24.116713+00:00",
+      "result": {
+        "MAE": 0.03,
+        "R2": 1.0,
+        "RMSE": 0.4,
+        "Training Rows": 763,
+        "status": "Training Completed"
+      }
+    },
+    "20261107151402582280_sample_training_dataset.csv": {
+      "path": "D:\\internship_project\\hotel_boooking\\datasets\\uploaded\\20261107151402582280_sample_training_dataset.csv",
+      "processed_at": "2026-11-07T15:14:05.058065+00:00",
+      "result": {
+        "MAE": 602.47,
+        "R2": 0.9806,
+        "RMSE": 849.48,
+        "Training Rows": 300,
+        "status": "Training Completed"
+      }
+    }
+  }
+}
