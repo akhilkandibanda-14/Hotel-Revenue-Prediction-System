@@ -1,0 +1,81 @@
+{
+  "model_name": "Random Forest",
+  "version": "v1.0.0-cancellation",
+  "trained_at": "2026-11-07T23:02:00.658777",
+  "dataset_source": "Antonio, de Almeida & Nunes (2019) Public Hotel Booking Demand Dataset",
+  "data_governance_label": "PUBLIC_RESEARCH_DATA",
+  "training_sample_count": 61177,
+  "validation_sample_count": 13109,
+  "test_sample_count": 13110,
+  "features_used": [
+    "lead_time",
+    "stays_in_weekend_nights",
+    "stays_in_week_nights",
+    "total_stay_nights",
+    "adults",
+    "children",
+    "babies",
+    "total_guests",
+    "is_repeated_guest",
+    "previous_cancellations",
+    "previous_bookings_not_canceled",
+    "booking_changes",
+    "days_in_waiting_list",
+    "adr",
+    "required_car_parking_spaces",
+    "total_of_special_requests",
+    "has_prior_cancellations",
+    "arrival_month_num",
+    "hotel",
+    "market_segment",
+    "distribution_channel",
+    "deposit_type",
+    "customer_type",
+    "reserved_room_type",
+    "meal"
+  ],
+  "target_leakage_blacklist": [
+    "is_canceled",
+    "reservation_status",
+    "reservation_status_date",
+    "assigned_room_type"
+  ],
+  "best_validation_metrics": {
+    "train_time_sec": 0.92,
+    "val_precision": 0.5359,
+    "val_recall": 0.7517,
+    "val_f1": 0.6257,
+    "val_roc_auc": 0.8078,
+    "val_pr_auc": 0.6475,
+    "val_brier_score": 0.1821,
+    "val_confusion_matrix": [
+      [
+        6434,
+        2632
+      ],
+      [
+        1004,
+        3039
+      ]
+    ]
+  },
+  "final_test_metrics": {
+    "test_precision": 0.5392,
+    "test_recall": 0.7611,
+    "test_f1": 0.6312,
+    "test_roc_auc": 0.7746,
+    "test_pr_auc": 0.6348,
+    "test_brier_score": 0.2012,
+    "test_confusion_matrix": [
+      [
+        5457,
+        3016
+      ],
+      [
+        1108,
+        3529
+      ]
+    ]
+  },
+  "model_parameters": "{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced_subsample', 'criterion': 'gini', 'max_depth': 16, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 5, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': -1, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}"
+}

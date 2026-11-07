@@ -1,0 +1,203 @@
+{
+  "status": "Success",
+  "evaluated_at": "2026-11-07T23:20:05.345307",
+  "validation_split": {
+    "sample_count": 13109,
+    "raw_model": {
+      "brier_score": 0.1821,
+      "ece": 0.1455,
+      "roc_auc": 0.8078,
+      "pr_auc": 0.6475,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.0497,
+          0.1562,
+          0.2501,
+          0.3468,
+          0.461,
+          0.5345,
+          0.6372,
+          0.7587,
+          0.8444,
+          0.9663
+        ],
+        "fraction_of_positives": [
+          0.003,
+          0.0434,
+          0.1179,
+          0.1807,
+          0.2581,
+          0.3901,
+          0.4784,
+          0.6076,
+          0.6758,
+          0.9323
+        ]
+      }
+    },
+    "sigmoid_calibrated": {
+      "brier_score": 0.1603,
+      "ece": 0.0271,
+      "roc_auc": 0.8078,
+      "pr_auc": 0.6475,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.064,
+          0.141,
+          0.2586,
+          0.3362,
+          0.4469,
+          0.5518,
+          0.6655,
+          0.7311,
+          0.8416
+        ],
+        "fraction_of_positives": [
+          0.0431,
+          0.1565,
+          0.2589,
+          0.3799,
+          0.4683,
+          0.5601,
+          0.6214,
+          0.6815,
+          1.0
+        ]
+      }
+    },
+    "isotonic_calibrated": {
+      "brier_score": 0.1579,
+      "ece": 0.0,
+      "roc_auc": 0.8097,
+      "pr_auc": 0.6376,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.031,
+          0.1408,
+          0.2367,
+          0.3324,
+          0.4376,
+          0.5541,
+          0.6467,
+          0.719,
+          0.8487,
+          1.0
+        ],
+        "fraction_of_positives": [
+          0.031,
+          0.1408,
+          0.2367,
+          0.3324,
+          0.4376,
+          0.5541,
+          0.6467,
+          0.719,
+          0.8487,
+          1.0
+        ]
+      }
+    }
+  },
+  "test_split_holdout": {
+    "sample_count": 13110,
+    "raw_model": {
+      "brier_score": 0.2012,
+      "ece": 0.1354,
+      "roc_auc": 0.7746,
+      "pr_auc": 0.6348,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.0493,
+          0.1584,
+          0.2518,
+          0.3471,
+          0.4614,
+          0.5403,
+          0.6366,
+          0.7494,
+          0.8549,
+          0.9439
+        ],
+        "fraction_of_positives": [
+          0.0037,
+          0.0778,
+          0.1241,
+          0.1941,
+          0.298,
+          0.4269,
+          0.5183,
+          0.5825,
+          0.6557,
+          0.8889
+        ]
+      }
+    },
+    "sigmoid_calibrated": {
+      "brier_score": 0.1841,
+      "ece": 0.048,
+      "roc_auc": 0.7746,
+      "pr_auc": 0.6348,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.0637,
+          0.1436,
+          0.2591,
+          0.3401,
+          0.4414,
+          0.5504,
+          0.6596,
+          0.7409,
+          0.8421
+        ],
+        "fraction_of_positives": [
+          0.0545,
+          0.1757,
+          0.2887,
+          0.4162,
+          0.5212,
+          0.5204,
+          0.5846,
+          0.672,
+          0.9894
+        ]
+      }
+    },
+    "isotonic_calibrated": {
+      "brier_score": 0.182,
+      "ece": 0.0289,
+      "roc_auc": 0.7739,
+      "pr_auc": 0.6192,
+      "curve": {
+        "mean_predicted_probabilities": [
+          0.0289,
+          0.1443,
+          0.2372,
+          0.3358,
+          0.4394,
+          0.5536,
+          0.6481,
+          0.7199,
+          0.8484,
+          0.9988
+        ],
+        "fraction_of_positives": [
+          0.0487,
+          0.1538,
+          0.2588,
+          0.3781,
+          0.4812,
+          0.5345,
+          0.595,
+          0.7172,
+          0.7677,
+          0.9083
+        ]
+      }
+    }
+  },
+  "calibration_findings": {
+    "recommended_method": "Sigmoid (Platt Scaling)",
+    "rationale": "Sigmoid calibration achieves 64.5% reduction in Expected Calibration Error on holdout data without degrading discrimination (exact preservation of ROC-AUC 0.7746 and PR-AUC 0.6348).",
+    "leakage_protocol": "Calibrators fitted strictly on chronological Validation split (13,109 samples). Holdout Test split (13,110 samples) remained completely untouched until final evaluation."
+  }
+}

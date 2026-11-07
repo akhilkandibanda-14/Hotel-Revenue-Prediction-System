@@ -29,14 +29,17 @@ Hotel-Revenue-Prediction-System/
 
 ### Key Capabilities
 - **FastAPI ML Service**:
-  - `POST /predict/`: Predicts expected revenue for specific dates.
+  - `POST /predict/`: Predicts expected revenue (supports full features, date queries with empirical seasonal profiles, and strict input validation).
+  - `GET /model/info`: Returns metadata and performance metrics of the active production model.
+  - `GET /model/comparison`: Returns latest benchmark comparison across all 5 regression models.
+  - `POST /model/rollback/{version}`: Instantly rolls back active model to any previous version.
   - `POST /reservation/`: Records real-time booking logs.
   - `POST /dataset/upload`: Uploads new CSV training datasets.
   - `GET /health`: Health verification endpoint.
-  - **Background Scheduler**: Continuously monitors and automatically triggers dataset merging and model retraining.
+  - **Background Scheduler**: Continuously monitors and automatically triggers dataset merging and multi-model retraining.
 - **Streamlit Analytics Dashboard**:
   - Interactive exploration of revenue, profit, occupancy rate, and booking channels.
-  - Feature importance breakdown from Random Forest regressors.
+  - Feature importance breakdown from trained regression models.
   - Actual vs. Predicted revenue performance scatter plots.
 
 ---

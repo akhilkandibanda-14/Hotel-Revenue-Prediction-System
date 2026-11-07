@@ -1,0 +1,267 @@
+{
+  "status": "Success",
+  "dataset_total_records": 87396,
+  "overall_cancellation_rate_pct": 27.5,
+  "segments": {
+    "by_lead_time_tier": [
+      {
+        "lead_time_tier": "0-7 days",
+        "total_bookings": 18304,
+        "cancellations": 1543,
+        "cancellation_rate_pct": 8.4,
+        "avg_lead_time_days": 2.3,
+        "avg_adr": 91.19
+      },
+      {
+        "lead_time_tier": "8-30 days",
+        "total_bookings": 16340,
+        "cancellations": 4145,
+        "cancellation_rate_pct": 25.4,
+        "avg_lead_time_days": 17.8,
+        "avg_adr": 110.61
+      },
+      {
+        "lead_time_tier": "31-90 days",
+        "total_bookings": 22744,
+        "cancellations": 7280,
+        "cancellation_rate_pct": 32.0,
+        "avg_lead_time_days": 56.8,
+        "avg_adr": 111.28
+      },
+      {
+        "lead_time_tier": "91-180 days",
+        "total_bookings": 18243,
+        "cancellations": 6382,
+        "cancellation_rate_pct": 35.0,
+        "avg_lead_time_days": 131.7,
+        "avg_adr": 114.07
+      },
+      {
+        "lead_time_tier": "180+ days",
+        "total_bookings": 11765,
+        "cancellations": 4675,
+        "cancellation_rate_pct": 39.7,
+        "avg_lead_time_days": 251.1,
+        "avg_adr": 102.43
+      }
+    ],
+    "by_distribution_channel": [
+      {
+        "distribution_channel": "Corporate",
+        "total_bookings": 5081,
+        "cancellations": 648,
+        "cancellation_rate_pct": 12.8,
+        "avg_lead_time_days": 33.4,
+        "avg_adr": 68.52
+      },
+      {
+        "distribution_channel": "Direct",
+        "total_bookings": 12988,
+        "cancellations": 1925,
+        "cancellation_rate_pct": 14.8,
+        "avg_lead_time_days": 52.4,
+        "avg_adr": 109.13
+      },
+      {
+        "distribution_channel": "GDS",
+        "total_bookings": 181,
+        "cancellations": 36,
+        "cancellation_rate_pct": 19.9,
+        "avg_lead_time_days": 20.1,
+        "avg_adr": 120.32
+      },
+      {
+        "distribution_channel": "TA/TO",
+        "total_bookings": 69141,
+        "cancellations": 21412,
+        "cancellation_rate_pct": 31.0,
+        "avg_lead_time_days": 88.6,
+        "avg_adr": 108.56
+      },
+      {
+        "distribution_channel": "Undefined",
+        "total_bookings": 5,
+        "cancellations": 4,
+        "cancellation_rate_pct": 80.0,
+        "avg_lead_time_days": 23.0,
+        "avg_adr": 46.24
+      }
+    ],
+    "by_customer_type": [
+      {
+        "customer_type": "Contract",
+        "total_bookings": 3139,
+        "cancellations": 512,
+        "cancellation_rate_pct": 16.3,
+        "avg_lead_time_days": 109.2,
+        "avg_adr": 92.75
+      },
+      {
+        "customer_type": "Group",
+        "total_bookings": 544,
+        "cancellations": 54,
+        "cancellation_rate_pct": 9.9,
+        "avg_lead_time_days": 51.6,
+        "avg_adr": 84.36
+      },
+      {
+        "customer_type": "Transient",
+        "total_bookings": 71986,
+        "cancellations": 21672,
+        "cancellation_rate_pct": 30.1,
+        "avg_lead_time_days": 73.4,
+        "avg_adr": 110.14
+      },
+      {
+        "customer_type": "Transient-Party",
+        "total_bookings": 11727,
+        "cancellations": 1787,
+        "cancellation_rate_pct": 15.2,
+        "avg_lead_time_days": 113.0,
+        "avg_adr": 87.68
+      }
+    ],
+    "by_deposit_type": [
+      {
+        "deposit_type": "No Deposit",
+        "total_bookings": 86251,
+        "cancellations": 23016,
+        "cancellation_rate_pct": 26.7,
+        "avg_lead_time_days": 78.2,
+        "avg_adr": 106.54
+      },
+      {
+        "deposit_type": "Non Refund",
+        "total_bookings": 1038,
+        "cancellations": 983,
+        "cancellation_rate_pct": 94.7,
+        "avg_lead_time_days": 211.3,
+        "avg_adr": 92.39
+      },
+      {
+        "deposit_type": "Refundable",
+        "total_bookings": 107,
+        "cancellations": 26,
+        "cancellation_rate_pct": 24.3,
+        "avg_lead_time_days": 145.4,
+        "avg_adr": 79.93
+      }
+    ],
+    "by_arrival_month": [
+      {
+        "arrival_date_month": "January",
+        "total_bookings": 4693,
+        "cancellations": 1038,
+        "cancellation_rate_pct": 22.1,
+        "avg_lead_time_days": 34.5,
+        "avg_adr": 70.05
+      },
+      {
+        "arrival_date_month": "February",
+        "total_bookings": 6098,
+        "cancellations": 1415,
+        "cancellation_rate_pct": 23.2,
+        "avg_lead_time_days": 35.1,
+        "avg_adr": 74.69
+      },
+      {
+        "arrival_date_month": "March",
+        "total_bookings": 7513,
+        "cancellations": 1830,
+        "cancellation_rate_pct": 24.4,
+        "avg_lead_time_days": 53.4,
+        "avg_adr": 81.61
+      },
+      {
+        "arrival_date_month": "April",
+        "total_bookings": 7908,
+        "cancellations": 2409,
+        "cancellation_rate_pct": 30.5,
+        "avg_lead_time_days": 75.9,
+        "avg_adr": 103.61
+      },
+      {
+        "arrival_date_month": "May",
+        "total_bookings": 8355,
+        "cancellations": 2442,
+        "cancellation_rate_pct": 29.2,
+        "avg_lead_time_days": 92.2,
+        "avg_adr": 111.2
+      },
+      {
+        "arrival_date_month": "June",
+        "total_bookings": 7765,
+        "cancellations": 2354,
+        "cancellation_rate_pct": 30.3,
+        "avg_lead_time_days": 104.0,
+        "avg_adr": 119.75
+      },
+      {
+        "arrival_date_month": "July",
+        "total_bookings": 10057,
+        "cancellations": 3198,
+        "cancellation_rate_pct": 31.8,
+        "avg_lead_time_days": 112.0,
+        "avg_adr": 135.54
+      },
+      {
+        "arrival_date_month": "August",
+        "total_bookings": 11257,
+        "cancellations": 3623,
+        "cancellation_rate_pct": 32.2,
+        "avg_lead_time_days": 102.7,
+        "avg_adr": 150.88
+      },
+      {
+        "arrival_date_month": "September",
+        "total_bookings": 6690,
+        "cancellations": 1642,
+        "cancellation_rate_pct": 24.5,
+        "avg_lead_time_days": 94.2,
+        "avg_adr": 112.08
+      },
+      {
+        "arrival_date_month": "October",
+        "total_bookings": 6934,
+        "cancellations": 1642,
+        "cancellation_rate_pct": 23.7,
+        "avg_lead_time_days": 82.9,
+        "avg_adr": 90.15
+      },
+      {
+        "arrival_date_month": "November",
+        "total_bookings": 4995,
+        "cancellations": 1054,
+        "cancellation_rate_pct": 21.1,
+        "avg_lead_time_days": 47.6,
+        "avg_adr": 72.75
+      },
+      {
+        "arrival_date_month": "December",
+        "total_bookings": 5131,
+        "cancellations": 1378,
+        "cancellation_rate_pct": 26.9,
+        "avg_lead_time_days": 59.0,
+        "avg_adr": 81.45
+      }
+    ],
+    "by_hotel": [
+      {
+        "hotel": "City Hotel",
+        "total_bookings": 53428,
+        "cancellations": 16049,
+        "cancellation_rate_pct": 30.0,
+        "avg_lead_time_days": 77.7,
+        "avg_adr": 110.99
+      },
+      {
+        "hotel": "Resort Hotel",
+        "total_bookings": 33968,
+        "cancellations": 7976,
+        "cancellation_rate_pct": 23.5,
+        "avg_lead_time_days": 83.4,
+        "avg_adr": 99.03
+      }
+    ]
+  }
+}

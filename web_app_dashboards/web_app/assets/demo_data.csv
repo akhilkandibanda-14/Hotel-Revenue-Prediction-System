@@ -1,241 +1,241 @@
-Date,Total_Revenue,Total_Costs,Season,Occupancy_Rate,Booking_Channel,Guest_Country,Month_Name
-2025-11-05 14:17:49.634494,1164.81,239.66,Autumn,35.8,Direct,India,November
-2025-11-06 14:17:49.634494,880.61,458.23,Autumn,19.8,Travel Agent,Italy,November
-2025-11-07 14:17:49.634494,846.75,344.16,Autumn,42.0,Direct,India,November
-2025-11-08 14:17:49.634494,852.24,431.77,Summer,9.5,Direct,Italy,November
-2025-11-09 14:17:49.634494,1842.49,103.69,Spring,6.8,Direct,India,November
-2025-11-10 14:17:49.634494,1348.48,641.35,Winter,37.3,Direct,Germany,November
-2025-11-11 14:17:49.634494,774.07,730.36,Winter,18.1,Travel Agent,Canada,November
-2025-11-12 14:17:49.634494,1242.24,343.21,Winter,46.9,Direct,Australia,November
-2025-11-13 14:17:49.634494,1096.17,917.51,Summer,44.2,Corporate,France,November
-2025-11-14 14:17:49.634494,345.87,801.94,Autumn,27.3,Corporate,United Kingdom,November
-2025-11-15 14:17:49.634494,596.97,463.86,Spring,44.2,Corporate,Spain,November
-2025-11-16 14:17:49.634494,1152.45,670.1,Summer,45.1,Corporate,United States,November
-2025-11-17 14:17:49.634494,1853.96,575.45,Autumn,51.4,Direct,France,November
-2025-11-18 14:17:49.634494,909.42,84.28,Summer,19.8,Corporate,United States,November
-2025-11-19 14:17:49.634494,781.83,270.06,Spring,5.6,Direct,Australia,November
-2025-11-20 14:17:49.634494,1076.37,482.21,Autumn,1.3,Travel Agent,France,November
-2025-11-21 14:17:49.634494,768.27,756.99,Summer,44.2,Corporate,India,November
-2025-11-22 14:17:49.634494,900.68,118.59,Spring,25.6,OTA,India,November
-2025-11-23 14:17:49.634494,1033.14,88.82,Winter,12.0,Corporate,Spain,November
-2025-11-24 14:17:49.634494,612.33,309.24,Spring,29.1,Corporate,United States,November
-2025-11-25 14:17:49.634494,1503.25,61.79,Winter,24.8,Direct,United Kingdom,November
-2025-11-26 14:17:49.634494,564.39,302.85,Summer,27.3,Corporate,Australia,November
-2025-11-27 14:17:49.634494,533.14,397.35,Autumn,23.1,OTA,India,November
-2025-11-28 14:17:49.634494,1166.04,168.9,Autumn,39.8,Direct,Canada,November
-2025-11-29 14:17:49.634494,1480.3,307.87,Summer,12.3,Direct,Germany,November
-2025-11-30 14:17:49.634494,1163.44,546.03,Autumn,24.4,Travel Agent,Germany,November
-2025-12-01 14:17:49.634494,1023.8,226.93,Autumn,16.9,Travel Agent,Italy,December
-2025-12-02 14:17:49.634494,940.97,188.42,Winter,36.3,Corporate,United Kingdom,December
-2025-12-03 14:17:49.634494,873.65,299.48,Summer,15.9,Travel Agent,Germany,December
-2025-12-04 14:17:49.634494,1722.09,156.98,Spring,9.8,Travel Agent,Italy,December
-2025-12-05 14:17:49.634494,1272.03,880.05,Winter,32.6,Travel Agent,United States,December
-2025-12-06 14:17:49.634494,917.89,326.96,Summer,30.7,Direct,India,December
-2025-12-07 14:17:49.634494,795.24,201.53,Winter,7.7,Direct,India,December
-2025-12-08 14:17:49.634494,1456.52,363.79,Spring,47.3,Direct,Canada,December
-2025-12-09 14:17:49.634494,1736.52,298.49,Spring,31.6,Travel Agent,France,December
-2025-12-10 14:17:49.634494,1673.93,278.62,Summer,20.6,Direct,Germany,December
-2025-12-11 14:17:49.634494,740.51,226.89,Spring,3.9,Travel Agent,United States,December
-2025-12-12 14:17:49.634494,972.48,219.91,Winter,41.7,Direct,Brazil,December
-2025-12-13 14:17:49.634494,897.02,105.45,Spring,30.5,Direct,Germany,December
-2025-12-14 14:17:49.634494,1038.15,669.54,Winter,36.0,OTA,United Kingdom,December
-2025-12-15 14:17:49.634494,1618.88,446.8,Winter,32.0,Corporate,France,December
-2025-12-16 14:17:49.634494,2013.87,384.95,Spring,6.0,Travel Agent,Germany,December
-2025-12-17 14:17:49.634494,1343.64,295.58,Summer,21.8,OTA,United States,December
-2025-12-18 14:17:49.634494,835.5,166.9,Autumn,42.3,Direct,Germany,December
-2025-12-19 14:17:49.634494,1127.98,193.49,Spring,8.6,Travel Agent,United Kingdom,December
-2025-12-20 14:17:49.634494,2198.85,114.38,Winter,24.1,Direct,Brazil,December
-2025-12-21 14:17:49.634494,1198.56,209.28,Winter,10.7,Corporate,Australia,December
-2025-12-22 14:17:49.634494,1001.21,151.41,Spring,39.4,OTA,Spain,December
-2025-12-23 14:17:49.634494,1042.01,777.54,Summer,25.6,Corporate,Brazil,December
-2025-12-24 14:17:49.634494,1359.43,525.72,Summer,38.4,OTA,Italy,December
-2025-12-25 14:17:49.634494,777.1,335.4,Winter,36.6,Direct,Germany,December
-2025-12-26 14:17:49.634494,911.27,179.16,Winter,58.2,Corporate,India,December
-2025-12-27 14:17:49.634494,1726.94,156.74,Summer,56.2,Corporate,Canada,December
-2025-12-28 14:17:49.634494,1349.09,284.13,Autumn,8.8,Direct,India,December
-2025-12-29 14:17:49.634494,1217.08,537.97,Spring,34.5,Corporate,Brazil,December
-2025-12-30 14:17:49.634494,1769.09,116.73,Winter,61.0,Travel Agent,India,December
-2025-12-31 14:17:49.634494,826.29,443.48,Winter,31.4,OTA,United States,December
-2026-01-01 14:17:49.634494,997.97,208.68,Summer,64.8,OTA,India,January
-2026-01-02 14:17:49.634494,1333.72,233.72,Spring,22.7,OTA,France,January
-2026-01-03 14:17:49.634494,1313.35,329.6,Summer,45.3,Travel Agent,Australia,January
-2026-01-04 14:17:49.634494,557.06,183.23,Spring,60.0,OTA,Germany,January
-2026-01-05 14:17:49.634494,953.82,275.42,Spring,13.6,Direct,India,January
-2026-01-06 14:17:49.634494,1081.34,173.07,Spring,23.6,Corporate,United Kingdom,January
-2026-01-07 14:17:49.634494,1397.77,219.76,Winter,60.5,Travel Agent,Australia,January
-2026-01-08 14:17:49.634494,1309.75,492.02,Autumn,29.2,OTA,Australia,January
-2026-01-09 14:17:49.634494,1124.8,339.86,Summer,40.0,Direct,India,January
-2026-01-10 14:17:49.634494,405.86,490.98,Autumn,45.1,Corporate,Australia,January
-2026-01-11 14:17:49.634494,1148.27,206.92,Summer,18.5,Corporate,Canada,January
-2026-01-12 14:17:49.634494,1193.92,445.34,Spring,41.0,Travel Agent,India,January
-2026-01-13 14:17:49.634494,3048.75,95.29,Winter,35.0,Travel Agent,United States,January
-2026-01-14 14:17:49.634494,1058.19,329.52,Autumn,17.6,Travel Agent,Brazil,January
-2026-01-15 14:17:49.634494,1325.68,462.16,Winter,20.5,Direct,France,January
-2026-01-16 14:17:49.634494,1879.68,92.35,Summer,60.9,Direct,Spain,January
-2026-01-17 14:17:49.634494,1602.32,208.51,Winter,14.2,Travel Agent,Italy,January
-2026-01-18 14:17:49.634494,2071.1,329.38,Winter,43.6,OTA,Australia,January
-2026-01-19 14:17:49.634494,552.68,560.47,Autumn,30.8,Corporate,United States,January
-2026-01-20 14:17:49.634494,696.62,219.74,Spring,45.5,Corporate,Germany,January
-2026-01-21 14:17:49.634494,868.93,435.45,Winter,42.8,Direct,Germany,January
-2026-01-22 14:17:49.634494,502.06,693.77,Spring,27.8,Corporate,Italy,January
-2026-01-23 14:17:49.634494,1174.03,446.93,Summer,18.5,OTA,France,January
-2026-01-24 14:17:49.634494,716.91,281.84,Winter,55.5,Corporate,Australia,January
-2026-01-25 14:17:49.634494,2152.63,398.38,Autumn,50.3,Direct,Canada,January
-2026-01-26 14:17:49.634494,766.46,215.64,Summer,32.2,Direct,Italy,January
-2026-01-27 14:17:49.634494,965.1,337.27,Summer,29.4,OTA,France,January
-2026-01-28 14:17:49.634494,1598.35,290.45,Autumn,12.5,OTA,Australia,January
-2026-01-29 14:17:49.634494,593.93,390.82,Winter,44.4,Corporate,United States,January
-2026-01-30 14:17:49.634494,473.43,245.88,Winter,57.6,Corporate,Brazil,January
-2026-01-31 14:17:49.634494,1207.04,403.69,Summer,12.4,Direct,Canada,January
-2026-02-01 14:17:49.634494,1243.79,244.39,Winter,14.2,OTA,Spain,February
-2026-02-02 14:17:49.634494,1549.76,522.86,Spring,18.7,OTA,Germany,February
-2026-02-03 14:17:49.634494,1383.83,260.27,Autumn,19.1,OTA,United Kingdom,February
-2026-02-04 14:17:49.634494,1249.64,63.73,Spring,27.5,Corporate,United States,February
-2026-02-05 14:17:49.634494,780.13,160.32,Winter,25.9,OTA,Germany,February
-2026-02-06 14:17:49.634494,1203.97,323.62,Summer,11.6,Direct,India,February
-2026-02-07 14:17:49.634494,1231.57,773.75,Autumn,58.8,Direct,United Kingdom,February
-2026-02-08 14:17:49.634494,756.33,511.6,Winter,14.2,Corporate,Germany,February
-2026-02-09 14:17:49.634494,2283.03,52.85,Winter,26.7,Travel Agent,France,February
-2026-02-10 14:17:49.634494,1314.48,108.91,Summer,16.9,Corporate,Canada,February
-2026-02-11 14:17:49.634494,649.18,600.53,Summer,50.5,Travel Agent,Germany,February
-2026-02-12 14:17:49.634494,1485.63,460.71,Spring,21.5,OTA,Spain,February
-2026-02-13 14:17:49.634494,1588.36,1003.07,Autumn,30.3,Corporate,Brazil,February
-2026-02-14 14:17:49.634494,1254.87,238.16,Autumn,60.4,Direct,France,February
-2026-02-15 14:17:49.634494,923.8,180.68,Summer,22.6,OTA,United States,February
-2026-02-16 14:17:49.634494,711.97,334.23,Spring,33.0,Direct,United States,February
-2026-02-17 14:17:49.634494,989.91,235.23,Autumn,15.5,OTA,United States,February
-2026-02-18 14:17:49.634494,1190.23,569.41,Summer,26.4,Corporate,United States,February
-2026-02-19 14:17:49.634494,1020.85,230.1,Winter,38.7,Travel Agent,Brazil,February
-2026-02-20 14:17:49.634494,1851.48,269.98,Autumn,12.2,OTA,Germany,February
-2026-02-21 14:17:49.634494,1322.61,163.97,Spring,23.1,Travel Agent,Australia,February
-2026-02-22 14:17:49.634494,651.59,492.44,Spring,33.7,OTA,Germany,February
-2026-02-23 14:17:49.634494,576.64,171.17,Spring,7.2,Direct,India,February
-2026-02-24 14:17:49.634494,1222.24,408.05,Winter,37.8,Direct,Canada,February
-2026-02-25 14:17:49.634494,881.53,846.66,Autumn,31.9,OTA,United Kingdom,February
-2026-02-26 14:17:49.634494,1331.82,82.68,Autumn,19.7,Travel Agent,Australia,February
-2026-02-27 14:17:49.634494,1195.06,711.8,Winter,28.7,Corporate,Australia,February
-2026-02-28 14:17:49.634494,929.18,378.06,Autumn,60.1,Corporate,Germany,February
-2026-03-01 14:17:49.634494,627.52,146.24,Winter,9.7,Direct,Australia,March
-2026-03-02 14:17:49.634494,426.97,341.92,Winter,27.5,Corporate,Italy,March
-2026-03-03 14:17:49.634494,1039.47,484.33,Winter,50.5,Direct,Italy,March
-2026-03-04 14:17:49.634494,493.75,188.75,Spring,16.0,Corporate,India,March
-2026-03-05 14:17:49.634494,599.44,421.57,Autumn,21.4,OTA,United Kingdom,March
-2026-03-06 14:17:49.634494,991.87,744.74,Winter,46.3,Direct,Spain,March
-2026-03-07 14:17:49.634494,943.36,229.91,Autumn,27.8,Direct,Brazil,March
-2026-03-08 14:17:49.634494,509.72,162.61,Spring,18.5,OTA,Germany,March
-2026-03-09 14:17:49.634494,1440.65,295.98,Winter,11.5,Direct,Brazil,March
-2026-03-10 14:17:49.634494,1414.45,331.04,Summer,42.3,Corporate,Spain,March
-2026-03-11 14:17:49.634494,1124.58,585.87,Spring,64.4,Corporate,Germany,March
-2026-03-12 14:17:49.634494,1116.4,290.02,Summer,30.8,Direct,Germany,March
-2026-03-13 14:17:49.634494,1109.46,243.43,Autumn,41.1,Corporate,United Kingdom,March
-2026-03-14 14:17:49.634494,3551.36,159.82,Autumn,19.6,Travel Agent,Brazil,March
-2026-03-15 14:17:49.634494,1313.73,92.92,Spring,13.9,Direct,Italy,March
-2026-03-16 14:17:49.634494,1151.92,127.94,Autumn,9.9,OTA,United States,March
-2026-03-17 14:17:49.634494,586.49,127.39,Summer,36.7,Travel Agent,Brazil,March
-2026-03-18 14:17:49.634494,762.54,271.78,Winter,50.7,Direct,Canada,March
-2026-03-19 14:17:49.634494,2117.05,106.58,Winter,23.6,OTA,Canada,March
-2026-03-20 14:17:49.634494,303.48,309.48,Winter,40.6,Corporate,Germany,March
-2026-03-21 14:17:49.634494,666.06,836.27,Spring,26.5,OTA,United States,March
-2026-03-22 14:17:49.634494,1322.81,595.42,Autumn,38.1,Travel Agent,France,March
-2026-03-23 14:17:49.634494,580.62,270.15,Summer,22.5,Corporate,Spain,March
-2026-03-24 14:17:49.634494,1104.97,1135.54,Autumn,4.5,Direct,India,March
-2026-03-25 14:17:49.634494,831.25,331.75,Autumn,16.4,Corporate,United States,March
-2026-03-26 14:17:49.634494,588.5,360.41,Autumn,19.1,Direct,India,March
-2026-03-27 14:17:49.634494,261.14,292.54,Winter,26.2,Direct,Brazil,March
-2026-03-28 14:17:49.634494,869.46,313.62,Summer,35.6,OTA,Brazil,March
-2026-03-29 14:17:49.634494,536.6,224.89,Summer,8.1,OTA,India,March
-2026-03-30 14:17:49.634494,747.57,272.59,Autumn,10.8,OTA,Spain,March
-2026-03-31 14:17:49.634494,981.87,714.46,Winter,24.6,Travel Agent,United States,March
-2026-04-01 14:17:49.634494,1135.2,631.56,Winter,54.5,Travel Agent,France,April
-2026-04-02 14:17:49.634494,616.59,61.4,Summer,33.6,OTA,Germany,April
-2026-04-03 14:17:49.634494,560.04,115.84,Winter,11.2,Travel Agent,United Kingdom,April
-2026-04-04 14:17:49.634494,400.24,190.5,Winter,7.9,Corporate,Brazil,April
-2026-04-05 14:17:49.634494,1133.43,540.6,Winter,22.3,Corporate,Canada,April
-2026-04-06 14:17:49.634494,1772.31,639.44,Spring,23.9,Travel Agent,Spain,April
-2026-04-07 14:17:49.634494,1174.35,483.27,Autumn,46.9,Travel Agent,United Kingdom,April
-2026-04-08 14:17:49.634494,1281.17,145.83,Summer,10.9,Corporate,France,April
-2026-04-09 14:17:49.634494,527.42,227.83,Summer,35.1,Direct,Australia,April
-2026-04-10 14:17:49.634494,905.76,425.8,Spring,11.5,Corporate,Germany,April
-2026-04-11 14:17:49.634494,1037.02,275.18,Autumn,52.1,Corporate,Brazil,April
-2026-04-12 14:17:49.634494,91.89,252.03,Summer,46.3,Travel Agent,Germany,April
-2026-04-13 14:17:49.634494,437.19,254.35,Winter,44.6,Corporate,United Kingdom,April
-2026-04-14 14:17:49.634494,1431.24,605.18,Summer,45.1,Travel Agent,Germany,April
-2026-04-15 14:17:49.634494,343.9,450.86,Winter,20.8,Travel Agent,Australia,April
-2026-04-16 14:17:49.634494,1322.07,263.09,Spring,55.3,OTA,United Kingdom,April
-2026-04-17 14:17:49.634494,340.19,388.26,Winter,24.1,Corporate,Brazil,April
-2026-04-18 14:17:49.634494,439.12,132.11,Summer,35.2,Direct,United States,April
-2026-04-19 14:17:49.634494,880.8,228.11,Summer,56.2,OTA,Canada,April
-2026-04-20 14:17:49.634494,737.52,572.72,Summer,6.6,Travel Agent,United Kingdom,April
-2026-04-21 14:17:49.634494,592.54,101.62,Spring,47.8,Travel Agent,Italy,April
-2026-04-22 14:17:49.634494,1369.79,454.05,Spring,36.2,Direct,Australia,April
-2026-04-23 14:17:49.634494,375.17,60.84,Autumn,40.2,Travel Agent,United Kingdom,April
-2026-04-24 14:17:49.634494,658.47,780.84,Summer,14.5,Corporate,United Kingdom,April
-2026-04-25 14:17:49.634494,915.71,224.66,Winter,14.9,OTA,Italy,April
-2026-04-26 14:17:49.634494,799.97,404.76,Spring,26.7,Travel Agent,Brazil,April
-2026-04-27 14:17:49.634494,519.38,342.91,Summer,26.7,Travel Agent,United Kingdom,April
-2026-04-28 14:17:49.634494,527.59,350.37,Summer,20.2,Direct,Canada,April
-2026-04-29 14:17:49.634494,1015.16,384.19,Spring,51.9,Corporate,Germany,April
-2026-04-30 14:17:49.634494,1035.17,88.25,Autumn,1.3,Travel Agent,Brazil,April
-2026-05-01 14:17:49.634494,804.88,354.66,Spring,23.0,Direct,Canada,May
-2026-05-02 14:17:49.634494,464.37,285.28,Spring,8.9,Travel Agent,Brazil,May
-2026-05-03 14:17:49.634494,533.73,225.45,Winter,54.4,Direct,Canada,May
-2026-05-04 14:17:49.634494,693.28,190.43,Winter,33.8,Direct,Australia,May
-2026-05-05 14:17:49.634494,738.94,359.93,Autumn,22.1,Corporate,Canada,May
-2026-05-06 14:17:49.634494,893.39,164.02,Summer,12.2,Travel Agent,India,May
-2026-05-07 14:17:49.634494,637.48,567.01,Spring,32.7,Corporate,Canada,May
-2026-05-08 14:17:49.634494,1005.48,421.83,Autumn,10.0,Direct,United States,May
-2026-05-09 14:17:49.634494,1001.75,372.84,Winter,33.8,OTA,United States,May
-2026-05-10 14:17:49.634494,1220.14,553.78,Spring,58.3,Travel Agent,Spain,May
-2026-05-11 14:17:49.634494,711.58,77.84,Summer,54.9,OTA,India,May
-2026-05-12 14:17:49.634494,817.35,129.05,Winter,14.4,Travel Agent,India,May
-2026-05-13 14:17:49.634494,665.7,432.54,Winter,54.0,Corporate,Germany,May
-2026-05-14 14:17:49.634494,473.0,197.81,Winter,4.9,Corporate,India,May
-2026-05-15 14:17:49.634494,1645.62,214.5,Autumn,22.7,Corporate,Germany,May
-2026-05-16 14:17:49.634494,1167.27,115.92,Summer,15.1,Corporate,Spain,May
-2026-05-17 14:17:49.634494,1010.15,164.33,Spring,4.0,Corporate,Spain,May
-2026-05-18 14:17:49.634494,713.04,574.06,Autumn,42.0,OTA,Australia,May
-2026-05-19 14:17:49.634494,460.11,426.73,Autumn,47.0,Corporate,United States,May
-2026-05-20 14:17:49.634494,1099.4,357.6,Autumn,45.9,Direct,Canada,May
-2026-05-21 14:17:49.634494,676.45,219.93,Winter,29.3,Direct,Canada,May
-2026-05-22 14:17:49.634494,875.6,344.51,Summer,32.5,OTA,Italy,May
-2026-05-23 14:17:49.634494,555.93,602.18,Autumn,60.8,Travel Agent,Italy,May
-2026-05-24 14:17:49.634494,819.91,201.04,Spring,22.8,Direct,France,May
-2026-05-25 14:17:49.634494,577.05,313.19,Summer,32.9,Travel Agent,Brazil,May
-2026-05-26 14:17:49.634494,590.21,807.55,Spring,18.9,OTA,Australia,May
-2026-05-27 14:17:49.634494,826.43,479.69,Summer,47.6,Travel Agent,France,May
-2026-05-28 14:17:49.634494,349.95,221.95,Spring,46.2,Travel Agent,France,May
-2026-05-29 14:17:49.634494,360.3,457.97,Winter,33.6,Travel Agent,United Kingdom,May
-2026-05-30 14:17:49.634494,530.67,100.39,Autumn,29.1,Travel Agent,United Kingdom,May
-2026-05-31 14:17:49.634494,686.41,305.63,Spring,30.1,OTA,France,May
-2026-06-01 14:17:49.634494,1107.92,457.69,Summer,32.7,Direct,India,June
-2026-06-02 14:17:49.634494,711.92,400.43,Autumn,6.8,Corporate,Brazil,June
-2026-06-03 14:17:49.634494,765.11,455.18,Autumn,33.3,Travel Agent,Australia,June
-2026-06-04 14:17:49.634494,677.02,512.81,Summer,56.9,Direct,France,June
-2026-06-05 14:17:49.634494,903.32,418.68,Spring,16.9,Direct,Canada,June
-2026-06-06 14:17:49.634494,521.44,411.79,Winter,32.3,OTA,Brazil,June
-2026-06-07 14:17:49.634494,751.13,362.45,Winter,26.0,Direct,United Kingdom,June
-2026-06-08 14:17:49.634494,952.37,151.47,Spring,21.1,OTA,Canada,June
-2026-06-09 14:17:49.634494,886.04,573.92,Autumn,44.5,Travel Agent,United Kingdom,June
-2026-06-10 14:17:49.634494,809.92,312.31,Autumn,19.3,Travel Agent,United Kingdom,June
-2026-06-11 14:17:49.634494,819.61,472.99,Autumn,42.2,Corporate,Brazil,June
-2026-06-12 14:17:49.634494,1018.48,541.33,Autumn,31.5,Corporate,United Kingdom,June
-2026-06-13 14:17:49.634494,1941.23,229.15,Spring,8.9,Corporate,Spain,June
-2026-06-14 14:17:49.634494,566.22,242.18,Autumn,18.1,Direct,United States,June
-2026-06-15 14:17:49.634494,1992.13,263.16,Summer,28.9,Travel Agent,Spain,June
-2026-06-16 14:17:49.634494,561.54,634.54,Autumn,19.1,OTA,United States,June
-2026-06-17 14:17:49.634494,256.15,174.76,Winter,25.5,Corporate,Italy,June
-2026-06-18 14:17:49.634494,658.47,695.54,Autumn,26.3,OTA,Italy,June
-2026-06-19 14:17:49.634494,996.9,360.08,Spring,18.7,OTA,United Kingdom,June
-2026-06-20 14:17:49.634494,1844.58,375.24,Winter,12.4,Corporate,Australia,June
-2026-06-21 14:17:49.634494,553.54,527.91,Spring,35.9,Travel Agent,Australia,June
-2026-06-22 14:17:49.634494,1086.03,336.4,Spring,0.7,Corporate,United States,June
-2026-06-23 14:17:49.634494,443.27,577.49,Winter,22.5,OTA,Canada,June
-2026-06-24 14:17:49.634494,1865.03,228.96,Spring,36.8,Corporate,Brazil,June
-2026-06-25 14:17:49.634494,1469.59,683.24,Spring,47.0,OTA,United Kingdom,June
-2026-06-26 14:17:49.634494,715.12,240.4,Autumn,23.3,OTA,Brazil,June
-2026-06-27 14:17:49.634494,359.13,697.65,Summer,60.5,Corporate,Spain,June
-2026-06-28 14:17:49.634494,1604.43,244.52,Spring,11.2,Direct,Australia,June
-2026-06-29 14:17:49.634494,866.6,267.9,Spring,29.2,Corporate,India,June
-2026-06-30 14:17:49.634494,1554.82,160.81,Spring,24.4,Direct,Spain,June
-2026-07-01 14:17:49.634494,928.71,191.89,Autumn,9.1,OTA,Spain,July
-2026-07-02 14:17:49.634494,953.02,313.25,Summer,34.2,OTA,United States,July
+Date,Month,Booking_Channel,Guest_Type,Market_Segment,Guest_Country,Season,Occupancy_Rate,ADR,RevPAR,Available_Rooms,Reserved_Rooms,Fixed_Costs,Variable_Costs,Total_Costs,Total_Revenue
+2026-03-13,March,Corporate,Group,Leisure,US,Winter,0.64,232.26,148.65,128,81,1851.82,549.38,2401.2,18813.06
+2026-03-14,March,Online,Transient,Wholesale,UK,Summer,0.93,234.01,217.63,93,86,2136.6,593.14,2729.74,20124.86
+2026-03-15,March,Online,Contract,Corporate,IN,Spring,0.82,228.93,187.72,94,77,1934.41,673.38,2607.79,17627.61
+2026-03-16,March,Corporate,Contract,Government,UK,Summer,0.75,158.12,118.59,110,82,1863.37,392.89,2256.26,12965.84
+2026-03-17,March,OTA,Transient-Party,Corporate,FR,Spring,0.53,112.01,59.37,80,42,2789.96,304.95,3094.91,4704.42
+2026-03-18,March,Direct,Transient,Government,FR,Summer,0.53,230.68,122.26,133,70,2122.35,361.6,2483.95,16147.6
+2026-03-19,March,Direct,Group,Leisure,FR,Spring,0.48,165.66,79.52,82,39,2609.87,705.01,3314.88,6460.74
+2026-03-20,March,OTA,Transient-Party,Corporate,AU,Spring,0.88,235.67,207.39,95,83,2054.64,693.25,2747.89,19560.61
+2026-03-21,March,Online,Transient-Party,Government,CA,Autumn,0.75,235.27,176.45,136,102,2481.5,568.84,3050.34,23997.54
+2026-03-22,March,Online,Transient-Party,Wholesale,AU,Spring,0.8,220.89,176.71,91,72,2560.23,570.23,3130.46,15904.08
+2026-03-23,March,Online,Group,Wholesale,US,Autumn,0.46,148.28,68.21,95,43,2395.64,599.27,2994.91,6376.04
+2026-03-24,March,Online,Transient-Party,Corporate,FR,Spring,0.93,160.06,148.86,103,95,2271.58,378.92,2650.5,15205.7
+2026-03-25,March,OTA,Group,Corporate,IN,Winter,0.87,220.65,191.97,107,93,2211.84,711.49,2923.33,20520.45
+2026-03-26,March,Online,Transient-Party,Leisure,UK,Spring,0.56,151.2,84.67,87,48,2148.87,488.45,2637.32,7257.6
+2026-03-27,March,Corporate,Group,Corporate,CA,Winter,0.54,132.03,71.3,115,62,2729.53,472.41,3201.94,8185.86
+2026-03-28,March,Online,Contract,Leisure,DE,Winter,0.54,182.38,98.49,87,46,2630.62,533.51,3164.13,8389.48
+2026-03-29,March,Direct,Contract,Leisure,IN,Spring,0.6,231.7,139.02,137,82,2765.03,321.13,3086.16,18999.4
+2026-03-30,March,Online,Contract,Wholesale,CA,Winter,0.71,200.48,142.34,139,98,1924.3,374.83,2299.13,19647.04
+2026-03-31,March,OTA,Contract,Wholesale,AU,Autumn,0.67,184.11,123.35,129,86,2530.87,632.12,3162.99,15833.46
+2026-04-01,April,Direct,Contract,Government,AU,Summer,0.6,122.63,73.58,107,64,2738.34,337.26,3075.6,7848.32
+2026-04-02,April,OTA,Transient-Party,Wholesale,IN,Spring,0.76,189.95,144.36,120,91,1981.23,571.42,2552.65,17285.45
+2026-04-03,April,OTA,Transient-Party,Wholesale,AU,Winter,0.52,238.71,124.13,143,74,1866.5,410.41,2276.91,17664.54
+2026-04-04,April,Direct,Transient-Party,Corporate,FR,Spring,0.6,128.21,76.93,106,63,2541.12,475.18,3016.3,8077.23
+2026-04-05,April,OTA,Group,Wholesale,US,Autumn,0.63,177.38,111.75,142,89,2374.47,429.91,2804.38,15786.82
+2026-04-06,April,OTA,Group,Government,UK,Spring,0.68,224.06,152.36,96,65,2641.83,460.05,3101.88,14563.9
+2026-04-07,April,Online,Group,Corporate,US,Spring,0.84,206.3,173.29,112,94,1939.77,623.57,2563.34,19392.2
+2026-04-08,April,Corporate,Group,Government,CA,Winter,0.55,200.61,110.34,108,59,2595.27,433.7,3028.97,11835.99
+2026-04-09,April,OTA,Contract,Wholesale,UK,Autumn,0.71,201.32,142.94,92,65,2001.63,554.88,2556.51,13085.8
+2026-04-10,April,OTA,Contract,Government,UK,Summer,0.75,156.73,117.55,125,93,1963.66,514.22,2477.88,14575.89
+2026-04-11,April,OTA,Contract,Corporate,US,Summer,0.47,148.17,69.64,114,53,1964.27,598.65,2562.92,7853.01
+2026-04-12,April,Online,Transient,Leisure,IN,Winter,0.75,215.22,161.42,85,63,2614.57,721.57,3336.14,13558.86
+2026-04-13,April,Corporate,Transient-Party,Government,UK,Spring,0.54,215.31,116.27,148,79,2465.2,629.66,3094.86,17009.49
+2026-04-14,April,Direct,Group,Government,US,Winter,0.48,222.72,106.91,126,60,2323.07,396.72,2719.79,13363.2
+2026-04-15,April,Online,Group,Corporate,UK,Winter,0.92,228.72,210.42,104,95,2158.83,314.03,2472.86,21728.4
+2026-04-16,April,Online,Contract,Corporate,DE,Winter,0.93,176.47,164.12,145,134,2677.2,418.02,3095.22,23646.98
+2026-04-17,April,Corporate,Group,Government,IN,Spring,0.85,175.2,148.92,89,75,2192.45,567.79,2760.24,13140.0
+2026-04-18,April,Corporate,Group,Wholesale,FR,Autumn,0.6,213.78,128.27,135,81,2616.6,323.14,2939.74,17316.18
+2026-04-19,April,Online,Transient-Party,Government,UK,Winter,0.5,194.5,97.25,109,54,2239.13,523.36,2762.49,10503.0
+2026-04-20,April,Direct,Contract,Corporate,DE,Spring,0.79,201.26,159.0,84,66,2176.94,568.58,2745.52,13283.16
+2026-04-21,April,Online,Transient-Party,Leisure,FR,Autumn,0.67,213.45,143.01,112,75,2262.68,450.41,2713.09,16008.75
+2026-04-22,April,Corporate,Transient,Leisure,FR,Winter,0.51,225.7,115.11,144,73,2101.38,646.91,2748.29,16476.1
+2026-04-23,April,Direct,Transient,Wholesale,CA,Summer,0.7,153.94,107.76,97,67,2547.61,347.97,2895.58,10313.98
+2026-04-24,April,Corporate,Transient,Government,UK,Autumn,0.47,158.83,74.65,128,60,2302.72,333.81,2636.53,9529.8
+2026-04-25,April,Direct,Contract,Leisure,US,Winter,0.9,122.22,110.0,90,81,2032.21,627.68,2659.89,9899.82
+2026-04-26,April,OTA,Group,Government,UK,Autumn,0.58,185.18,107.4,105,60,2699.57,522.97,3222.54,11110.8
+2026-04-27,April,Corporate,Contract,Corporate,DE,Autumn,0.78,114.67,89.44,142,110,2183.89,609.78,2793.67,12613.7
+2026-04-28,April,Corporate,Contract,Leisure,FR,Autumn,0.61,170.53,104.02,138,84,2343.55,495.67,2839.22,14324.52
+2026-04-29,April,Online,Group,Wholesale,UK,Autumn,0.71,180.54,128.18,106,75,2706.47,410.88,3117.35,13540.5
+2026-04-30,April,Corporate,Transient-Party,Corporate,US,Autumn,0.72,147.25,106.02,128,92,2424.24,668.6,3092.84,13547.0
+2026-05-01,May,Corporate,Transient,Wholesale,CA,Autumn,0.54,186.81,100.88,112,60,1916.9,659.74,2576.64,11208.6
+2026-05-02,May,OTA,Transient-Party,Corporate,UK,Winter,0.93,113.97,105.99,80,74,2739.83,612.61,3352.44,8433.78
+2026-05-03,May,Corporate,Transient,Leisure,IN,Summer,0.84,114.86,96.48,100,84,2427.71,422.47,2850.18,9648.24
+2026-05-04,May,OTA,Contract,Wholesale,CA,Spring,0.92,216.94,199.58,134,123,2134.91,565.6,2700.51,26683.62
+2026-05-05,May,OTA,Transient,Wholesale,US,Autumn,0.9,156.82,141.14,85,76,1939.27,462.44,2401.71,11918.32
+2026-05-06,May,OTA,Contract,Corporate,DE,Spring,0.75,126.52,94.89,148,111,2594.03,341.21,2935.24,14043.72
+2026-05-07,May,OTA,Transient-Party,Wholesale,FR,Winter,0.91,177.89,161.88,84,76,2420.07,712.79,3132.86,13519.64
+2026-05-08,May,Direct,Contract,Corporate,UK,Autumn,0.49,210.1,102.95,82,40,2333.46,361.57,2695.03,8404.0
+2026-05-09,May,Online,Transient-Party,Corporate,US,Summer,0.55,138.06,75.93,132,72,2693.89,727.61,3421.5,9940.32
+2026-05-10,May,Direct,Group,Corporate,CA,Spring,0.47,190.98,89.76,102,47,2588.6,500.7,3089.3,8976.06
+2026-05-11,May,Corporate,Group,Corporate,IN,Autumn,0.61,121.1,73.87,132,80,1951.67,383.31,2334.98,9688.0
+2026-05-12,May,Direct,Group,Leisure,US,Winter,0.64,116.72,74.7,116,74,2111.72,543.86,2655.58,8637.28
+2026-05-13,May,Direct,Contract,Corporate,AU,Summer,0.59,179.08,105.66,96,56,2048.49,692.83,2741.32,10028.48
+2026-05-14,May,Corporate,Group,Government,IN,Spring,0.86,180.28,155.04,80,68,2543.95,629.5,3173.45,12259.04
+2026-05-15,May,Corporate,Transient,Wholesale,CA,Spring,0.63,192.87,121.51,130,81,1833.53,662.95,2496.48,15622.47
+2026-05-16,May,Corporate,Transient-Party,Government,DE,Autumn,0.59,204.39,120.59,124,73,2369.89,596.45,2966.34,14920.47
+2026-05-17,May,Direct,Transient-Party,Leisure,FR,Summer,0.72,236.86,170.54,83,59,2562.46,611.52,3173.98,13974.74
+2026-05-18,May,Direct,Transient,Government,CA,Summer,0.52,177.12,92.1,141,73,2676.77,682.14,3358.91,12929.76
+2026-05-19,May,Corporate,Contract,Wholesale,DE,Summer,0.85,151.98,129.18,144,122,2142.08,412.35,2554.43,18541.56
+2026-05-20,May,Online,Contract,Government,UK,Summer,0.49,213.37,104.55,111,54,2621.26,520.24,3141.5,11521.98
+2026-05-21,May,Online,Transient-Party,Leisure,US,Winter,0.94,145.21,136.5,113,106,1910.63,399.54,2310.17,15392.26
+2026-05-22,May,OTA,Group,Corporate,AU,Summer,0.84,167.07,140.34,118,99,2646.45,744.45,3390.9,16539.93
+2026-05-23,May,Corporate,Contract,Government,IN,Spring,0.55,120.2,66.11,105,57,1927.49,724.83,2652.32,6851.4
+2026-05-24,May,OTA,Contract,Leisure,IN,Spring,0.45,113.3,50.98,113,50,2197.29,317.74,2515.03,5665.0
+2026-05-25,May,Online,Transient,Leisure,US,Winter,0.86,235.14,202.22,133,114,2597.3,617.51,3214.81,26805.96
+2026-05-26,May,OTA,Transient,Wholesale,AU,Spring,0.8,218.68,174.94,82,65,1949.92,716.36,2666.28,14214.2
+2026-05-27,May,Corporate,Group,Wholesale,US,Spring,0.81,200.48,162.39,129,104,2029.25,381.26,2410.51,20849.92
+2026-05-28,May,Corporate,Contract,Government,UK,Summer,0.84,163.16,137.05,91,76,2522.25,555.58,3077.83,12400.16
+2026-05-29,May,Corporate,Contract,Corporate,DE,Spring,0.49,132.53,64.94,144,70,2520.04,711.97,3232.01,9277.1
+2026-05-30,May,Direct,Transient,Leisure,CA,Winter,0.63,130.34,82.11,133,83,2441.15,315.28,2756.43,10818.22
+2026-05-31,May,OTA,Contract,Government,IN,Summer,0.51,142.53,72.69,84,42,2493.95,613.84,3107.79,5986.26
+2026-06-01,June,Online,Transient-Party,Leisure,UK,Autumn,0.88,181.4,159.63,136,119,2342.72,433.81,2776.53,21586.6
+2026-06-02,June,Online,Transient,Leisure,DE,Summer,0.76,202.9,154.2,96,72,2051.8,715.98,2767.78,14608.8
+2026-06-03,June,Online,Group,Corporate,UK,Winter,0.62,195.83,121.41,126,78,2145.7,736.98,2882.68,15274.74
+2026-06-04,June,Direct,Transient,Corporate,AU,Summer,0.48,146.39,70.27,102,48,1981.6,724.92,2706.52,7026.72
+2026-06-05,June,Direct,Contract,Government,IN,Summer,0.61,234.13,142.82,93,56,2708.45,513.4,3221.85,13111.28
+2026-06-06,June,Corporate,Group,Corporate,CA,Winter,0.61,205.93,125.62,145,88,2383.39,687.92,3071.31,18121.84
+2026-06-07,June,Online,Transient,Corporate,US,Summer,0.81,182.07,147.48,130,105,2200.85,680.05,2880.9,19117.35
+2026-06-08,June,Direct,Transient-Party,Government,US,Winter,0.77,189.52,145.93,117,90,2262.01,443.6,2705.61,17056.8
+2026-06-09,June,Corporate,Transient-Party,Corporate,DE,Winter,0.89,164.55,146.45,143,127,2747.28,673.01,3420.29,20897.85
+2026-06-10,June,Online,Transient,Wholesale,CA,Autumn,0.69,142.21,98.12,117,80,1953.35,316.65,2270.0,11376.8
+2026-06-11,June,OTA,Transient-Party,Leisure,FR,Spring,0.51,156.28,79.7,129,65,2386.23,568.32,2954.55,10158.2
+2026-06-12,June,Corporate,Transient-Party,Leisure,AU,Spring,0.81,208.52,168.9,109,88,2305.89,403.5,2709.39,18349.76
+2026-06-13,June,Direct,Transient-Party,Leisure,DE,Summer,0.83,111.87,92.85,130,107,2411.45,354.26,2765.71,11970.09
+2026-06-14,June,Direct,Group,Leisure,FR,Summer,0.73,125.09,91.32,142,103,1818.11,334.63,2152.74,12884.27
+2026-06-15,June,Corporate,Transient-Party,Government,UK,Autumn,0.84,115.98,97.42,131,110,2672.12,613.33,3285.45,12757.8
+2026-06-16,June,Corporate,Transient-Party,Leisure,AU,Autumn,0.7,115.29,80.7,117,81,2732.12,452.94,3185.06,9338.49
+2026-06-17,June,Direct,Transient-Party,Leisure,UK,Autumn,0.71,221.21,157.06,109,77,2365.13,626.15,2991.28,17033.17
+2026-06-18,June,OTA,Group,Leisure,CA,Winter,0.66,201.48,132.98,130,85,2496.65,329.41,2826.06,17125.8
+2026-06-19,June,Online,Transient,Leisure,IN,Autumn,0.46,171.64,78.95,84,38,2722.5,441.88,3164.38,6522.32
+2026-06-20,June,OTA,Contract,Wholesale,AU,Autumn,0.5,122.72,61.36,108,54,2507.24,542.77,3050.01,6626.88
+2026-06-21,June,Corporate,Transient-Party,Leisure,FR,Summer,0.47,173.91,81.74,83,39,1952.54,655.83,2608.37,6782.49
+2026-06-22,June,OTA,Transient,Wholesale,IN,Autumn,0.77,171.55,132.09,89,68,2376.29,443.44,2819.73,11665.4
+2026-06-23,June,Direct,Transient-Party,Government,US,Winter,0.61,132.52,80.84,135,82,2406.72,581.65,2988.37,10866.64
+2026-06-24,June,Corporate,Group,Corporate,FR,Winter,0.7,166.4,116.48,96,67,2224.13,698.69,2922.82,11148.8
+2026-06-25,June,Online,Transient,Leisure,DE,Summer,0.9,161.81,145.63,96,86,2536.44,577.14,3113.58,13915.66
+2026-06-26,June,Direct,Group,Corporate,US,Autumn,0.57,190.06,108.33,148,84,2734.37,404.83,3139.2,15965.04
+2026-06-27,June,Direct,Transient-Party,Corporate,US,Autumn,0.66,192.56,127.09,113,74,2725.57,310.98,3036.55,14249.44
+2026-06-28,June,Online,Transient-Party,Government,DE,Winter,0.83,115.89,96.19,85,70,2250.84,691.54,2942.38,8112.3
+2026-06-29,June,Online,Group,Corporate,AU,Autumn,0.56,158.7,88.87,132,73,1913.24,309.57,2222.81,11585.1
+2026-06-30,June,OTA,Contract,Wholesale,US,Autumn,0.49,191.36,93.77,145,71,2784.84,693.62,3478.46,13586.56
+2026-07-01,July,Corporate,Group,Corporate,CA,Autumn,0.59,175.41,103.49,122,71,2638.9,538.02,3176.92,12454.11
+2026-07-02,July,Online,Transient-Party,Corporate,FR,Spring,0.53,221.34,117.31,102,54,1924.66,722.58,2647.24,11952.36
+2026-07-03,July,Online,Group,Corporate,IN,Summer,0.91,195.63,178.02,134,121,2720.84,659.45,3380.29,23671.23
+2026-07-04,July,Corporate,Contract,Leisure,US,Spring,0.85,131.18,111.5,95,80,2669.9,749.07,3418.97,10494.4
+2026-07-05,July,Online,Group,Leisure,FR,Summer,0.77,119.17,91.76,87,66,2318.84,457.82,2776.66,7865.22
+2026-07-06,July,Online,Contract,Wholesale,UK,Winter,0.89,193.51,172.22,83,73,2391.28,645.23,3036.51,14126.23
+2026-07-07,July,OTA,Contract,Wholesale,FR,Autumn,0.85,113.45,96.43,83,70,2199.0,480.87,2679.87,7941.5
+2026-07-08,July,Direct,Group,Leisure,IN,Summer,0.54,186.15,100.52,135,72,1854.76,515.94,2370.7,13402.8
+2026-07-09,July,Direct,Group,Wholesale,FR,Spring,0.9,232.23,209.01,104,93,2135.2,582.38,2717.58,21597.39
+2026-07-10,July,Direct,Transient,Leisure,DE,Autumn,0.72,184.81,133.06,146,105,2602.85,693.15,3296.0,19405.05
+2026-07-11,July,Direct,Transient-Party,Government,IN,Winter,0.85,160.46,136.39,146,124,1804.63,742.84,2547.47,19897.04
+2026-07-12,July,Online,Contract,Corporate,AU,Summer,0.9,193.63,174.27,106,95,2133.5,645.72,2779.22,18394.85
+2026-07-13,July,Corporate,Transient,Corporate,UK,Summer,0.61,169.57,103.44,111,67,2198.17,488.0,2686.17,11361.19
+2026-07-14,July,Corporate,Group,Wholesale,DE,Summer,0.51,180.93,92.27,129,65,2337.4,489.61,2827.01,11760.45
+2026-07-15,July,OTA,Transient-Party,Leisure,AU,Autumn,0.56,232.39,130.14,140,78,2719.86,631.91,3351.77,18126.42
+2026-07-16,July,OTA,Transient,Leisure,FR,Spring,0.66,160.19,105.73,130,85,2146.35,407.45,2553.8,13616.15
+2026-07-17,July,Online,Contract,Wholesale,IN,Spring,0.86,234.95,202.06,98,84,2146.95,349.71,2496.66,19735.8
+2026-07-18,July,Corporate,Transient,Leisure,UK,Summer,0.88,227.7,200.38,100,88,2537.5,459.58,2997.08,20037.6
+2026-07-19,July,Corporate,Contract,Government,DE,Winter,0.45,135.45,60.95,84,37,2252.22,429.26,2681.48,5011.65
+2026-07-20,July,Direct,Group,Corporate,AU,Winter,0.71,119.02,84.5,121,85,2024.6,433.34,2457.94,10116.7
+2026-07-21,July,Online,Transient-Party,Wholesale,AU,Spring,0.66,123.1,81.25,140,92,2252.44,405.12,2657.56,11325.2
+2026-07-22,July,Online,Transient-Party,Wholesale,UK,Winter,0.56,112.37,62.93,101,56,1940.86,318.94,2259.8,6292.72
+2026-07-23,July,Direct,Transient-Party,Leisure,CA,Spring,0.51,122.28,62.36,100,51,1976.39,308.04,2284.43,6236.28
+2026-07-24,July,Online,Group,Wholesale,FR,Summer,0.62,198.79,123.25,149,92,2298.37,744.48,3042.85,18288.68
+2026-07-25,July,Online,Contract,Government,UK,Spring,0.92,119.25,109.71,80,73,2218.93,492.5,2711.43,8705.25
+2026-07-26,July,OTA,Group,Leisure,AU,Spring,0.61,151.47,92.4,84,51,2714.85,472.95,3187.8,7724.97
+2026-07-27,July,Corporate,Transient-Party,Leisure,US,Summer,0.71,219.83,156.08,91,64,2162.39,605.84,2768.23,14069.12
+2026-07-28,July,Online,Group,Leisure,DE,Winter,0.8,113.03,90.42,125,100,2380.59,398.21,2778.8,11303.0
+2026-07-29,July,OTA,Group,Leisure,UK,Spring,0.63,215.88,136.0,113,71,2432.26,727.48,3159.74,15327.48
+2026-07-30,July,Corporate,Group,Government,CA,Spring,0.94,146.64,137.84,128,120,1813.09,653.86,2466.95,17596.8
+2026-07-31,July,Direct,Contract,Leisure,AU,Summer,0.93,125.36,116.58,124,115,2463.54,340.23,2803.77,14416.4
+2026-08-01,August,OTA,Transient,Wholesale,FR,Winter,0.58,200.58,116.34,106,61,1978.04,487.91,2465.95,12235.38
+2026-08-02,August,OTA,Transient,Government,AU,Spring,0.7,191.76,134.23,105,73,2761.07,695.6,3456.67,13998.48
+2026-08-03,August,Corporate,Group,Corporate,FR,Summer,0.6,224.07,134.44,126,75,1948.66,725.13,2673.79,16805.25
+2026-08-04,August,Direct,Transient,Corporate,UK,Spring,0.59,205.56,121.28,135,79,2214.62,510.33,2724.95,16239.24
+2026-08-05,August,OTA,Transient,Wholesale,FR,Autumn,0.47,214.45,100.79,142,66,1885.35,576.04,2461.39,14153.7
+2026-08-06,August,Online,Group,Wholesale,IN,Summer,0.75,146.66,110.0,127,95,2796.87,375.17,3172.04,13932.7
+2026-08-07,August,Online,Group,Government,IN,Winter,0.7,133.07,93.15,140,98,2302.2,746.03,3048.23,13040.86
+2026-08-08,August,Online,Transient-Party,Corporate,IN,Winter,0.48,207.58,99.64,105,50,2395.39,404.25,2799.64,10379.0
+2026-08-09,August,Direct,Transient,Corporate,CA,Winter,0.59,214.89,126.79,115,67,1867.08,724.23,2591.31,14397.63
+2026-08-10,August,OTA,Contract,Corporate,CA,Winter,0.9,238.77,214.89,80,72,2549.96,592.34,3142.3,17191.44
+2026-08-11,August,Online,Group,Corporate,US,Spring,0.57,163.64,93.27,87,49,2009.91,573.48,2583.39,8018.36
+2026-08-12,August,Direct,Transient-Party,Corporate,CA,Spring,0.52,158.36,82.35,131,68,2698.05,530.71,3228.76,10768.48
+2026-08-13,August,Online,Contract,Leisure,UK,Winter,0.69,210.93,145.54,126,86,2005.14,403.8,2408.94,18139.98
+2026-08-14,August,Corporate,Transient,Wholesale,AU,Winter,0.94,154.3,145.04,135,126,1990.69,379.44,2370.13,19441.8
+2026-08-15,August,OTA,Transient-Party,Leisure,AU,Winter,0.57,231.0,131.67,93,53,1836.55,399.22,2235.77,12243.0
+2026-08-16,August,OTA,Group,Corporate,US,Spring,0.79,221.59,175.06,107,84,2272.07,383.9,2655.97,18613.56
+2026-08-17,August,Direct,Contract,Government,CA,Winter,0.83,165.77,137.59,81,67,2364.84,650.81,3015.65,11106.59
+2026-08-18,August,Direct,Group,Government,FR,Winter,0.57,207.61,118.34,105,59,1865.71,457.56,2323.27,12248.99
+2026-08-19,August,OTA,Transient,Corporate,US,Autumn,0.81,208.09,168.55,93,75,2575.53,326.03,2901.56,15606.75
+2026-08-20,August,Online,Contract,Corporate,FR,Autumn,0.63,123.41,77.75,138,86,2253.29,736.1,2989.39,10613.26
+2026-08-21,August,Online,Transient,Government,FR,Winter,0.77,227.33,175.04,135,103,2324.39,697.7,3022.09,23414.99
+2026-08-22,August,Corporate,Transient,Leisure,DE,Summer,0.77,175.68,135.27,86,66,2240.76,717.49,2958.25,11594.88
+2026-08-23,August,Online,Transient-Party,Leisure,AU,Winter,0.72,217.44,156.56,82,59,2200.76,747.71,2948.47,12828.96
+2026-08-24,August,Direct,Group,Corporate,IN,Autumn,0.5,151.61,75.81,102,51,2359.64,378.25,2737.89,7732.11
+2026-08-25,August,Direct,Contract,Leisure,CA,Summer,0.87,226.42,196.99,97,84,1955.24,478.31,2433.55,19019.28
+2026-08-26,August,Online,Transient,Government,FR,Summer,0.61,160.6,97.97,117,71,1981.93,641.21,2623.14,11402.6
+2026-08-27,August,Direct,Transient,Leisure,DE,Winter,0.54,111.41,60.16,94,50,2661.79,613.21,3275.0,5570.5
+2026-08-28,August,OTA,Contract,Corporate,AU,Autumn,0.47,227.7,107.02,143,67,2746.12,369.25,3115.37,15255.9
+2026-08-29,August,OTA,Transient,Government,IN,Autumn,0.75,121.87,91.4,107,80,2173.31,667.12,2840.43,9749.6
+2026-08-30,August,Online,Transient-Party,Leisure,FR,Summer,0.79,151.51,119.69,118,93,2070.74,401.0,2471.74,14090.43
+2026-08-31,August,OTA,Transient-Party,Wholesale,FR,Winter,0.46,233.51,107.41,136,62,2444.0,400.72,2844.72,14477.62
+2026-09-01,September,OTA,Transient-Party,Government,US,Spring,0.71,233.58,165.84,96,68,2208.73,541.64,2750.37,15883.44
+2026-09-02,September,Corporate,Transient-Party,Government,US,Spring,0.56,184.55,103.35,123,68,1825.39,566.82,2392.21,12549.4
+2026-09-03,September,Corporate,Transient,Wholesale,AU,Autumn,0.77,192.14,147.95,104,80,1956.15,561.04,2517.19,15371.2
+2026-09-04,September,OTA,Contract,Wholesale,IN,Spring,0.54,168.3,90.88,96,51,2515.97,341.17,2857.14,8583.3
+2026-09-05,September,Online,Contract,Government,FR,Autumn,0.8,148.12,118.5,92,73,2458.92,694.86,3153.78,10812.76
+2026-09-06,September,Corporate,Contract,Wholesale,AU,Autumn,0.64,152.73,97.75,104,66,1827.1,419.52,2246.62,10080.18
+2026-09-07,September,Direct,Contract,Corporate,AU,Autumn,0.92,197.43,181.64,147,135,2021.97,358.28,2380.25,26653.05
+2026-09-08,September,Direct,Group,Corporate,UK,Spring,0.52,207.81,108.06,89,46,2031.07,699.94,2731.01,9559.26
+2026-09-09,September,Direct,Contract,Corporate,CA,Autumn,0.62,212.91,132.0,146,90,2471.89,730.04,3201.93,19161.9
+2026-09-10,September,Online,Group,Government,US,Summer,0.51,212.65,108.45,97,49,1819.71,687.96,2507.67,10419.85
+2026-09-11,September,OTA,Group,Wholesale,IN,Winter,0.91,121.86,110.89,113,102,1904.11,664.28,2568.39,12429.72
+2026-09-12,September,Direct,Transient-Party,Wholesale,FR,Winter,0.89,174.27,155.1,87,77,2599.92,594.86,3194.78,13418.79
+2026-09-13,September,Online,Group,Leisure,AU,Autumn,0.58,117.48,68.14,119,69,1978.54,547.89,2526.43,8106.12
+2026-09-14,September,Corporate,Transient,Leisure,FR,Winter,0.78,181.44,141.52,121,94,2452.75,339.14,2791.89,17055.36
+2026-09-15,September,OTA,Group,Wholesale,UK,Spring,0.86,167.4,143.96,120,103,2038.18,483.8,2521.98,17242.2
+2026-09-16,September,Corporate,Transient-Party,Wholesale,IN,Spring,0.73,225.4,164.54,85,62,1899.44,467.71,2367.15,13974.8
+2026-09-17,September,Online,Group,Wholesale,AU,Winter,0.71,155.62,110.49,131,93,2043.17,416.89,2460.06,14472.66
+2026-09-18,September,Direct,Transient,Government,FR,Spring,0.57,125.22,71.38,105,59,2522.27,625.54,3147.81,7387.98
+2026-09-19,September,Direct,Transient,Wholesale,US,Winter,0.5,128.59,64.3,143,71,2655.7,523.14,3178.84,9129.89
+2026-09-20,September,Online,Transient,Leisure,CA,Winter,0.9,209.0,188.1,138,124,2630.22,336.47,2966.69,25916.0
+2026-09-21,September,Direct,Transient-Party,Government,UK,Winter,0.9,190.37,171.33,135,121,2197.18,399.08,2596.26,23034.77
+2026-09-22,September,OTA,Transient-Party,Wholesale,IN,Autumn,0.77,123.15,94.83,138,106,2468.09,607.47,3075.56,13053.9
+2026-09-23,September,Online,Contract,Leisure,UK,Winter,0.62,120.93,74.98,149,92,2004.98,334.26,2339.24,11125.56
+2026-09-24,September,Corporate,Transient-Party,Government,US,Autumn,0.62,201.13,124.7,112,69,2093.15,683.04,2776.19,13877.97
+2026-09-25,September,Online,Transient,Wholesale,IN,Winter,0.81,119.46,96.76,132,106,2696.34,522.82,3219.16,12662.76
+2026-09-26,September,OTA,Transient,Wholesale,UK,Winter,0.9,216.84,195.16,101,90,1813.0,516.26,2329.26,19515.6
+2026-09-27,September,OTA,Transient-Party,Wholesale,DE,Winter,0.89,201.81,179.61,100,89,1885.51,566.58,2452.09,17961.09
+2026-09-28,September,Online,Group,Government,US,Spring,0.84,120.58,101.29,149,125,2007.89,671.11,2679.0,15072.5
+2026-09-29,September,Online,Transient-Party,Leisure,US,Autumn,0.77,121.03,93.19,149,114,1826.53,456.51,2283.04,13797.42
+2026-09-30,September,Direct,Transient-Party,Leisure,US,Autumn,0.49,238.26,116.75,83,40,1981.44,605.11,2586.55,9530.4
+2026-10-01,October,OTA,Transient,Corporate,DE,Winter,0.53,158.66,84.09,141,74,2383.04,554.58,2937.62,11740.84
+2026-10-02,October,Online,Contract,Wholesale,DE,Winter,0.9,158.18,142.36,141,126,2221.42,420.16,2641.58,19930.68
+2026-10-03,October,Online,Transient,Corporate,FR,Spring,0.75,215.66,161.74,103,77,2692.67,695.38,3388.05,16605.82
+2026-10-04,October,OTA,Contract,Corporate,AU,Spring,0.45,233.14,104.91,134,60,2617.44,658.84,3276.28,13988.4
+2026-10-05,October,Online,Transient,Leisure,CA,Spring,0.5,238.18,119.09,88,44,2141.82,596.3,2738.12,10479.92
+2026-10-06,October,Direct,Transient-Party,Government,UK,Autumn,0.78,207.94,162.19,82,63,2059.42,682.76,2742.18,13100.22
+2026-10-07,October,OTA,Transient,Government,FR,Autumn,0.45,158.91,71.51,110,49,2179.69,690.28,2869.97,7786.59
+2026-10-08,October,Direct,Transient,Leisure,UK,Autumn,0.53,120.86,64.06,119,63,2390.29,618.76,3009.05,7614.18
+2026-10-09,October,Direct,Transient,Government,CA,Winter,0.72,211.03,151.94,115,82,2068.06,676.66,2744.72,17304.46
+2026-10-10,October,Direct,Transient-Party,Corporate,AU,Autumn,0.8,182.59,146.07,103,82,2424.15,613.86,3038.01,14972.38
+2026-10-11,October,Direct,Transient-Party,Wholesale,DE,Summer,0.78,165.15,128.82,85,66,2209.41,606.06,2815.47,10899.9
+2026-10-12,October,OTA,Transient-Party,Leisure,AU,Summer,0.56,227.83,127.58,145,81,2352.05,578.38,2930.43,18454.23
+2026-10-13,October,Direct,Transient-Party,Wholesale,DE,Spring,0.81,124.46,100.81,83,67,2236.13,638.72,2874.85,8338.82
+2026-10-14,October,Direct,Contract,Government,CA,Autumn,0.57,174.04,99.2,85,48,2094.47,371.37,2465.84,8353.92
+2026-10-15,October,Online,Contract,Wholesale,AU,Summer,0.61,111.48,68.0,130,79,2748.45,696.39,3444.84,8806.92
+2026-10-16,October,OTA,Group,Government,FR,Spring,0.82,170.93,140.16,141,115,2563.61,692.33,3255.94,19656.95
+2026-10-17,October,OTA,Transient-Party,Government,IN,Autumn,0.77,117.32,90.34,136,104,1940.11,313.16,2253.27,12201.28
+2026-10-18,October,Corporate,Contract,Corporate,FR,Winter,0.87,125.45,109.14,145,126,2668.47,671.62,3340.09,15806.7
+2026-10-19,October,OTA,Transient,Government,UK,Summer,0.78,125.28,97.72,87,67,2287.43,357.99,2645.42,8393.76
+2026-10-20,October,OTA,Transient-Party,Corporate,FR,Winter,0.73,194.4,141.91,105,76,2694.55,450.8,3145.35,14774.4
+2026-10-21,October,Corporate,Group,Corporate,CA,Autumn,0.5,206.99,103.5,130,65,2599.86,634.58,3234.44,13454.35
+2026-10-22,October,OTA,Group,Corporate,US,Summer,0.63,185.84,117.08,124,78,2225.21,372.34,2597.55,14495.52
+2026-10-23,October,OTA,Group,Leisure,UK,Autumn,0.58,235.08,136.35,123,71,1822.47,668.09,2490.56,16690.68
+2026-10-24,October,OTA,Transient,Leisure,AU,Winter,0.57,158.73,90.48,84,47,2068.68,674.46,2743.14,7460.31
+2026-10-25,October,OTA,Contract,Government,UK,Summer,0.94,147.14,138.31,149,140,2341.63,528.36,2869.99,20599.6
+2026-10-26,October,Corporate,Transient,Corporate,IN,Winter,0.65,222.92,144.9,105,68,2433.48,302.87,2736.35,15158.56
+2026-10-27,October,OTA,Transient-Party,Leisure,DE,Autumn,0.9,139.07,125.16,147,132,2057.89,429.17,2487.06,18357.24
+2026-10-28,October,OTA,Group,Corporate,AU,Autumn,0.77,235.22,181.12,98,75,1939.36,577.62,2516.98,17641.5
+2026-10-29,October,Corporate,Transient,Wholesale,UK,Winter,0.85,111.58,94.84,99,84,2634.93,741.53,3376.46,9372.72
+2026-10-30,October,Online,Transient,Wholesale,AU,Summer,0.7,236.08,165.26,91,63,2784.4,584.32,3368.72,14873.04
+2026-10-31,October,Direct,Contract,Wholesale,AU,Winter,0.74,115.61,85.55,126,93,2325.69,416.91,2742.6,10751.73
+2026-11-01,November,Online,Contract,Government,AU,Autumn,0.7,225.85,158.1,80,56,1971.68,585.3,2556.98,12647.6
+2026-11-02,November,Corporate,Group,Corporate,DE,Winter,0.55,178.6,98.23,93,51,2072.31,542.99,2615.3,9108.6
+2026-11-03,November,Direct,Transient,Wholesale,CA,Autumn,0.81,239.09,193.66,143,115,1818.39,650.93,2469.32,27495.35
+2026-11-04,November,Corporate,Transient,Leisure,FR,Winter,0.59,119.59,70.56,117,69,2714.3,348.14,3062.44,8251.71
+2026-11-05,November,Corporate,Contract,Wholesale,AU,Summer,0.46,182.0,83.72,116,53,1917.75,642.46,2560.21,9646.0
+2026-11-06,November,OTA,Transient,Wholesale,US,Summer,0.77,236.01,181.73,90,69,2376.52,543.57,2920.09,16284.69
+2026-11-07,November,Direct,Transient,Wholesale,CA,Winter,0.54,178.0,96.12,82,44,2074.06,733.35,2807.41,7832.0

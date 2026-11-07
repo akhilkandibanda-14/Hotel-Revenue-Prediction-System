@@ -1,10 +1,15 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 
+from app.api.analytics import router as analytics_router
 from app.api.health import router as health_router
+from app.api.intelligence import router as intelligence_router
+from app.api.inventory import router as inventory_router
+from app.api.model import router as model_router
+from app.api.overbooking import router as overbooking_router
 from app.api.prediction import router as prediction_router
-from app.api.upload import router as upload_router
 from app.api.reservation import router as reservation_router
+from app.api.upload import router as upload_router
 from app.scheduler.scheduler import training_scheduler
 from app.utils.logger import setup_logging
 
@@ -26,9 +31,15 @@ app = FastAPI(
 )
 
 app.include_router(prediction_router)
+app.include_router(model_router)
+app.include_router(analytics_router)
+app.include_router(intelligence_router)
+app.include_router(inventory_router)
+app.include_router(overbooking_router)
 app.include_router(upload_router)
 app.include_router(reservation_router)
 app.include_router(health_router)
+
 
 
 @app.get("/")

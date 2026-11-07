@@ -42,6 +42,18 @@ class TestHotelRevenueService(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
+        cls.temp_path = temp_path
+        config.MODEL_FOLDER = temp_path / "models"
+        config.MODEL_PATH = config.MODEL_FOLDER / config.MODEL_NAME
+        config.ENCODER_PATH = config.MODEL_FOLDER / config.ENCODER_NAME
+        config.FEATURE_PATH = config.MODEL_FOLDER / config.FEATURE_NAME
+        config.BASE_DATASET_FOLDER = temp_path / "datasets"
+        config.UPLOADED_FOLDER = config.BASE_DATASET_FOLDER / "uploaded"
+        config.MERGED_FOLDER = config.BASE_DATASET_FOLDER / "merged"
+        config.TRAINING_STATE_FILE = config.BASE_DATASET_FOLDER / "training_state.json"
+        config.RESERVATION_FOLDER = temp_path / "reservations"
+        config.RESERVATION_PATH = config.RESERVATION_FOLDER / config.RESERVATION_FILE
+
         ensure_dataset_directories()
         config.MODEL_FOLDER.mkdir(parents=True, exist_ok=True)
         config.RESERVATION_FOLDER.mkdir(parents=True, exist_ok=True)

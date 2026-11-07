@@ -1,0 +1,112 @@
+[
+  {
+    "id": "comp_001",
+    "date": "2026-07-01",
+    "competitor_name": "Grand Bay Luxury Resort",
+    "competitor_adr": 185.0,
+    "our_adr": 165.0,
+    "room_type": "Standard Deluxe",
+    "notes": "Direct competitor beachfront property",
+    "logged_at": "2026-07-01T10:00:00Z"
+  },
+  {
+    "id": "comp_002",
+    "date": "2026-07-01",
+    "competitor_name": "City Center Hotel & Suites",
+    "competitor_adr": 150.0,
+    "our_adr": 165.0,
+    "room_type": "Standard Deluxe",
+    "notes": "Midscale business competitor",
+    "logged_at": "2026-07-01T10:00:00Z"
+  },
+  {
+    "id": "comp_003",
+    "date": "2026-08-15",
+    "competitor_name": "Grand Bay Luxury Resort",
+    "competitor_adr": 220.0,
+    "our_adr": 205.0,
+    "room_type": "Executive Suite",
+    "notes": "High season peak weekend",
+    "logged_at": "2026-08-15T10:00:00Z"
+  },
+  {
+    "id": "comp_004",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T22:26:29.622380"
+  },
+  {
+    "id": "comp_005",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T22:27:18.174927"
+  },
+  {
+    "id": "comp_006",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T22:32:24.068955"
+  },
+  {
+    "id": "comp_007",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T22:36:42.068652"
+  },
+  {
+    "id": "comp_008",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T23:07:09.182695"
+  },
+  {
+    "id": "comp_009",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T23:28:33.934355"
+  },
+  {
+    "id": "comp_010",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T23:42:53.004465"
+  },
+  {
+    "id": "comp_011",
+    "date": "2026-08-01",
+    "competitor_name": "Test Beach Resort",
+    "competitor_adr": 175.0,
+    "our_adr": 165.0,
+    "room_type": "Deluxe Sea View",
+    "notes": "Weekend benchmark test",
+    "logged_at": "2026-11-07T23:54:16.763188"
+  }
+]

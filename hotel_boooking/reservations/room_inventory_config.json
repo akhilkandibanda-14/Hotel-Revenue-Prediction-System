@@ -1,0 +1,38 @@
+{
+  "Standard Room": {
+    "room_category": "Standard Room",
+    "room_code": "A",
+    "total_physical_rooms": 100,
+    "rooms_out_of_service": 3,
+    "base_adr": 145.0,
+    "walk_relocation_cost": 290.0,
+    "description": "Standard Queen/King guest room with city/garden view"
+  },
+  "Deluxe Room": {
+    "room_category": "Deluxe Room",
+    "room_code": "D",
+    "total_physical_rooms": 60,
+    "rooms_out_of_service": 1,
+    "base_adr": 195.0,
+    "walk_relocation_cost": 390.0,
+    "description": "Spacious premium room with balcony and luxury bath"
+  },
+  "Executive Suite": {
+    "room_category": "Executive Suite",
+    "room_code": "E",
+    "total_physical_rooms": 30,
+    "rooms_out_of_service": 1,
+    "base_adr": 290.0,
+    "walk_relocation_cost": 580.0,
+    "description": "Executive suite with dedicated lounge access and living area"
+  },
+  "Presidential Suite": {
+    "room_category": "Presidential Suite",
+    "room_code": "G",
+    "total_physical_rooms": 10,
+    "rooms_out_of_service": 0,
+    "base_adr": 650.0,
+    "walk_relocation_cost": 1300.0,
+    "description": "Top-floor multi-room penthouse with panoramic views and butler service"
+  }
+}

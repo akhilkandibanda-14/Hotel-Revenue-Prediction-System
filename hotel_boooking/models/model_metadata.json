@@ -1,0 +1,51 @@
+{
+  "algorithm": "Extra Trees",
+  "artifact_path": "D:\\Hotel_Revenue_Project\\hotel_boooking\\models\\versions\\model_v001.joblib",
+  "dataset_info": {
+    "dataset_name": "active_dataset.csv",
+    "feature_count": 20,
+    "test_records": 45,
+    "total_records": 300,
+    "train_records": 210,
+    "val_records": 45
+  },
+  "deployed_at": "2026-11-07T16:07:12.308852+00:00",
+  "feature_columns": [
+    "Month",
+    "Booking_Channel",
+    "Guest_Type",
+    "Market_Segment",
+    "Guest_Country",
+    "Season",
+    "Occupancy_Rate",
+    "ADR",
+    "RevPAR",
+    "Available_Rooms",
+    "Reserved_Rooms",
+    "Fixed_Costs",
+    "Variable_Costs",
+    "Total_Costs",
+    "Year",
+    "Day_of_Month",
+    "Day_of_Week",
+    "Is_Weekend",
+    "Quarter",
+    "Month_Num"
+  ],
+  "feature_count": 20,
+  "rolled_back_at": "2026-11-07T16:19:36.787712+00:00",
+  "status": "production",
+  "test_metrics": {
+    "MAE": 427.97,
+    "MAPE": 3.86,
+    "R2": 0.9873,
+    "RMSE": 586.53
+  },
+  "validation_metrics": {
+    "MAE": 368.62,
+    "MAPE": 3.16,
+    "R2": 0.9925,
+    "RMSE": 529.85
+  },
+  "version": "v001"
+}

@@ -1,0 +1,114 @@
+{
+  "status": "Success",
+  "best_model": "Random Forest",
+  "algorithms_benchmarked": {
+    "Logistic Regression": {
+      "train_time_sec": 0.26,
+      "val_precision": 0.4756,
+      "val_recall": 0.7974,
+      "val_f1": 0.5958,
+      "val_roc_auc": 0.7908,
+      "val_pr_auc": 0.6551,
+      "val_brier_score": 0.2011,
+      "val_confusion_matrix": [
+        [
+          5511,
+          3555
+        ],
+        [
+          819,
+          3224
+        ]
+      ]
+    },
+    "Random Forest": {
+      "train_time_sec": 0.92,
+      "val_precision": 0.5359,
+      "val_recall": 0.7517,
+      "val_f1": 0.6257,
+      "val_roc_auc": 0.8078,
+      "val_pr_auc": 0.6475,
+      "val_brier_score": 0.1821,
+      "val_confusion_matrix": [
+        [
+          6434,
+          2632
+        ],
+        [
+          1004,
+          3039
+        ]
+      ]
+    },
+    "Extra Trees": {
+      "train_time_sec": 5.27,
+      "val_precision": 0.4729,
+      "val_recall": 0.8236,
+      "val_f1": 0.6009,
+      "val_roc_auc": 0.7943,
+      "val_pr_auc": 0.6432,
+      "val_brier_score": 0.195,
+      "val_confusion_matrix": [
+        [
+          5355,
+          3711
+        ],
+        [
+          713,
+          3330
+        ]
+      ]
+    },
+    "HistGradientBoosting": {
+      "train_time_sec": 7.52,
+      "val_precision": 0.6769,
+      "val_recall": 0.4727,
+      "val_f1": 0.5567,
+      "val_roc_auc": 0.8074,
+      "val_pr_auc": 0.6544,
+      "val_brier_score": 0.1613,
+      "val_confusion_matrix": [
+        [
+          8154,
+          912
+        ],
+        [
+          2132,
+          1911
+        ]
+      ]
+    }
+  },
+  "selected_model_test_evaluation": {
+    "test_precision": 0.5392,
+    "test_recall": 0.7611,
+    "test_f1": 0.6312,
+    "test_roc_auc": 0.7746,
+    "test_pr_auc": 0.6348,
+    "test_brier_score": 0.2012,
+    "test_confusion_matrix": [
+      [
+        5457,
+        3016
+      ],
+      [
+        1108,
+        3529
+      ]
+    ]
+  },
+  "split_info": {
+    "train_dates": "2015-07-01 to 2017-02-24",
+    "train_size": 61177,
+    "val_dates": "2017-02-24 to 2017-06-01",
+    "val_size": 13109,
+    "test_dates": "2017-06-01 to 2017-08-31",
+    "test_size": 13110
+  },
+  "leakage_prevention_audit": {
+    "is_canceled_excluded": true,
+    "reservation_status_excluded": true,
+    "reservation_status_date_excluded": true,
+    "assigned_room_type_excluded": true
+  }
+}

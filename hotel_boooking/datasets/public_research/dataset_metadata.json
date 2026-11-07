@@ -1,0 +1,11 @@
+{
+  "dataset_name": "Hotel Booking Demand Dataset (Antonio, de Almeida and Nunes)",
+  "classification": "Public Research Data",
+  "source_paper": "Antonio, N., de Almeida, A. and Nunes, L. (2019) Hotel booking demand datasets. Data in Brief, 22, pp.41-49.",
+  "doi": "https://doi.org/10.1016/j.dib.2018.11.126",
+  "download_url": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-11/hotels.csv",
+  "file_path": "d:\\Hotel_Revenue_Project\\hotel_boooking\\datasets\\public_research\\hotel_bookings_demand_antonio.csv",
+  "purpose": "Development and rigorous validation of individual reservation-level cancellation risk machine learning models",
+  "data_governance_label": "PUBLIC_RESEARCH_DATA",
+  "isolation_notice": "This dataset is strictly isolated from active hotel operational datasets and synthetic demonstration records."
+}

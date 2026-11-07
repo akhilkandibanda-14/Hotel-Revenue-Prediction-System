@@ -7,12 +7,7 @@ from pathlib import Path
 from typing import Any
 import pandas as pd
 
-from app.utils.config import (
-    BASE_DATASET_FOLDER,
-    UPLOADED_FOLDER,
-    MERGED_FOLDER,
-    TRAINING_STATE_FILE,
-)
+from app.utils import config
 
 logger = logging.getLogger(__name__)
 
@@ -20,9 +15,9 @@ logger = logging.getLogger(__name__)
 def ensure_dataset_directories() -> None:
 
 	for folder in (
-		BASE_DATASET_FOLDER,
-		UPLOADED_FOLDER,
-		MERGED_FOLDER,
+		config.BASE_DATASET_FOLDER,
+		config.UPLOADED_FOLDER,
+		config.MERGED_FOLDER,
 	):
 		folder.mkdir(parents=True, exist_ok=True)
 
@@ -31,11 +26,11 @@ def load_training_state() -> dict[str, Any]:
 
 	ensure_dataset_directories()
 
-	if TRAINING_STATE_FILE.exists():
+	if config.TRAINING_STATE_FILE.exists():
 
 		try:
 
-			return json.loads(TRAINING_STATE_FILE.read_text(encoding="utf-8"))
+			return json.loads(config.TRAINING_STATE_FILE.read_text(encoding="utf-8"))
 
 		except json.JSONDecodeError:
 			pass
@@ -50,7 +45,7 @@ def save_training_state(state: dict[str, Any]) -> None:
 
 	ensure_dataset_directories()
 
-	TRAINING_STATE_FILE.write_text(
+	config.TRAINING_STATE_FILE.write_text(
 		json.dumps(state, indent=2, sort_keys=True),
 		encoding="utf-8"
 	)
@@ -67,7 +62,7 @@ def list_pending_datasets() -> list[Path]:
 	pending_datasets = []
 
 	for dataset_path in sorted(
-		UPLOADED_FOLDER.glob("*.csv"),
+		config.UPLOADED_FOLDER.glob("*.csv"),
 		key=lambda item: item.stat().st_mtime
 	):
 
@@ -140,7 +135,7 @@ def merge_datasets(new_dataset_path: Path | str) -> Path:
 	merged_df = pd.concat(dfs, ignore_index=True)
 
 	# Save to merged folder
-	merged_path = MERGED_FOLDER / "active_dataset.csv"
+	merged_path = config.MERGED_FOLDER / "active_dataset.csv"
 	merged_df.to_csv(merged_path, index=False)
 
 	return merged_path
