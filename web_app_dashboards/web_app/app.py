@@ -2137,6 +2137,12 @@ with tab_recommendations:
                 prio = r.get("priority", "Medium")
                 badge_color = "#e53e3e" if prio == "High" else ("#dd6b20" if prio == "Medium" else "#3182ce")
                 conf_val = r.get("confidence_level", 0.85)
+
+                try:
+                    conf_val = float(conf_val)
+                except (TypeError, ValueError):
+                    conf_val = 0.85
+
                 conf = conf_val * 100 if conf_val <= 1.0 else conf_val
 
                 with st.container():
