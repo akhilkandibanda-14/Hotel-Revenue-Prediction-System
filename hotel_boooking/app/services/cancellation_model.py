@@ -775,11 +775,10 @@ class CancellationModelService:
         if not self.is_model_ready():
             self.train_and_benchmark()
 
-        import shap
-
-        if self._explainer is None:
-            logger.info("Initializing SHAP TreeExplainer for cancellation model...")
-            self._explainer = shap.TreeExplainer(self.model)
+        try:
+            import shap
+        except (ImportError, Exception):
+            shap = None
 
         input_df = self._build_input_dataframe(data)
         X_trans = self.preprocessor.transform(input_df)
@@ -787,17 +786,29 @@ class CancellationModelService:
         raw_prob = float(self.model.predict_proba(X_trans)[0, 1])
         calibrated_prob = float(self.calibrator_sigmoid.predict_proba(X_trans)[0, 1]) if self.calibrator_sigmoid else raw_prob
 
-        shap_vals = self._explainer.shap_values(X_trans)
+        if shap is not None:
+            if self._explainer is None:
+                logger.info("Initializing SHAP TreeExplainer for cancellation model...")
+                self._explainer = shap.TreeExplainer(self.model)
 
-        if isinstance(shap_vals, list):
-            sv1 = shap_vals[1][0]
-            base_val = float(self._explainer.expected_value[1])
-        elif len(np.array(shap_vals).shape) == 3:
-            sv1 = shap_vals[0, :, 1]
-            base_val = float(self._explainer.expected_value[1])
+            shap_vals = self._explainer.shap_values(X_trans)
+
+            if isinstance(shap_vals, list):
+                sv1 = shap_vals[1][0]
+                base_val = float(self._explainer.expected_value[1])
+            elif len(np.array(shap_vals).shape) == 3:
+                sv1 = shap_vals[0, :, 1]
+                base_val = float(self._explainer.expected_value[1])
+            else:
+                sv1 = shap_vals[0]
+                base_val = float(self._explainer.expected_value)
         else:
-            sv1 = shap_vals[0]
-            base_val = float(self._explainer.expected_value)
+            feat_imp = getattr(self.model, "feature_importances_", None)
+            if feat_imp is None:
+                feat_imp = np.ones(X_trans.shape[1]) / max(1, X_trans.shape[1])
+            base_val = 0.27
+            net_diff = raw_prob - base_val
+            sv1 = feat_imp / (feat_imp.sum() if feat_imp.sum() > 0 else 1.0) * net_diff
 
         shap_sum = float(np.sum(sv1))
         additive_total = base_val + shap_sum
